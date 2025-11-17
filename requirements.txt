@@ -1,0 +1,7 @@
+streamlit>=1.0
+# Add any other packages the notebook requires, e.g.:
+# numpy
+# pandas
+# openai
+# transformers
+# any other ML or LLM packages used by your notebook
